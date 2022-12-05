@@ -1,0 +1,6 @@
+mod utils;
+mod day3;
+
+fn main() {
+    day3::day3();
+}
